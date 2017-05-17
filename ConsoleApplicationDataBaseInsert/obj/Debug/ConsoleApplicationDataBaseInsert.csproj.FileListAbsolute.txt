@@ -1,0 +1,5 @@
+E:\5th semester\DissertationAPAA\Dissertation\ConsoleApplicationDataBaseInsert\bin\Debug\ConsoleApplicationDataBaseInsert.exe.config
+E:\5th semester\DissertationAPAA\Dissertation\ConsoleApplicationDataBaseInsert\bin\Debug\ConsoleApplicationDataBaseInsert.exe
+E:\5th semester\DissertationAPAA\Dissertation\ConsoleApplicationDataBaseInsert\bin\Debug\ConsoleApplicationDataBaseInsert.pdb
+E:\5th semester\DissertationAPAA\Dissertation\ConsoleApplicationDataBaseInsert\obj\Debug\ConsoleApplicationDataBaseInsert.exe
+E:\5th semester\DissertationAPAA\Dissertation\ConsoleApplicationDataBaseInsert\obj\Debug\ConsoleApplicationDataBaseInsert.pdb
